@@ -8,12 +8,12 @@ body {
 
 .popupContainer {
     align-items: center;
-    background-color: $background-color;
+    background-color: whitesmoke;
     border: 2px solid $primary-color;
     color: $primary-color;
     display: flex;
-    font-size: 20px;
-    height: 75px;
+    font-size: 18px;
+    height: max-content;
+    width: max-content;
     justify-content: center;
-    width: 150px;
 }
